@@ -105,7 +105,7 @@ prova= float(input("Digite a nota da prova:"))
 media_ponderada = (trabalho*4) + (teste*3) + (prova*5)/12
 print(f'A média do aluno foi:{media_ponderada}')
 
-'8'
+'8 tabuada de acordo com a escolha do cliente e ao final perguntar se ele deseja uma nova tabuada'
 
 tabuada=int(input("Tabuada do numero: "))
 
